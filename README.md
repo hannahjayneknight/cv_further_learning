@@ -4,7 +4,7 @@ Further learning surrounding computer vision topics.
 ## ViT
 Useful resources:
 - https://www.youtube.com/watch?v=j3VNqtJUoz0
-- 
+- Look into distillation ViT models which needs less data. 
 
 ## RNNs
 Useful resources:
